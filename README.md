@@ -8,7 +8,7 @@ Also you can add the QQ group: ***647303915*** to discuss together.
 
 # 1. Import the module
 ```python
-from WIDER import *
+from imageSolver import *
 from detection import *
 ```
 # 2. How to load the data
