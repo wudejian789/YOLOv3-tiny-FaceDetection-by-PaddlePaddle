@@ -26,7 +26,7 @@ If you want to use your own data, please keep storage structure consistent or re
 # 3. How to train your model
 First you need to create a YOLOv3_tiny object.  
 ```python
-model = YOLOv3_tiny(boxNum=64, use_cuda=True)
+model = YOLOv3_tiny(use_cuda=True)
 ``` 
 >***use_cuda*** is whether to use GPU;  
 
